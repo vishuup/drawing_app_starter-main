@@ -27,4 +27,3 @@ This is a simple drawing app created using HTML, CSS and JavaScript. It allows y
 - Working with the HTML canvas element
 - Saving the drawing as an image
 
-### Built with &hearts; by [RICR](https://ricr.in)
